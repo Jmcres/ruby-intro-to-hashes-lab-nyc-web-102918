@@ -15,3 +15,4 @@ def monopoly
     }
   }
 end
+
