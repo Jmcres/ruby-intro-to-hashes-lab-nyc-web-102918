@@ -8,9 +8,10 @@ actor = {
   }
 end
 
-def monopoly = {
- railroads: {
-    
+def monopoly 
+ monopoly = {
+    railroads: {
+
+    }
   }
-}
 end
