@@ -9,7 +9,7 @@ actor = {
 end
 
 def monopoly = {
-  railroads: {
+  :railroads=> {
     
   }
 }
