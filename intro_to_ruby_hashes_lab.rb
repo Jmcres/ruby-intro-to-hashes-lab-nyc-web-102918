@@ -8,3 +8,6 @@ actor = {
   }
 end
 
+def monopoly = {
+  
+}
